@@ -202,7 +202,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "S\u1ed1 \u0111i\u1ec7n tho\u1ea1i"
-                                                }), "+845 "]
+                                                }), "+84368993475  "]
                                             })]
                                         }), Object(d.jsxs)("ul", {
                                             className: "header__contact",
@@ -210,7 +210,7 @@
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
                                                     children: "Ng\xe0y sinh"
-                                                }), "xx th\xe1ng xx, 2008"]
+                                                }), "27 th\xe1ng 9, 2008"]
                                             }), Object(d.jsxs)("li", {
                                                 children: [Object(d.jsx)("span", {
                                                     className: "overhead",
